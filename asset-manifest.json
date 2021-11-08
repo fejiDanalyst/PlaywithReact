@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/playwithreact/static/css/main.c27eb45c.chunk.css",
+    "main.js": "/playwithreact/static/js/main.b80c16c3.chunk.js",
+    "main.js.map": "/playwithreact/static/js/main.b80c16c3.chunk.js.map",
+    "runtime-main.js": "/playwithreact/static/js/runtime-main.82f013b2.js",
+    "runtime-main.js.map": "/playwithreact/static/js/runtime-main.82f013b2.js.map",
+    "static/js/2.f517d30c.chunk.js": "/playwithreact/static/js/2.f517d30c.chunk.js",
+    "static/js/2.f517d30c.chunk.js.map": "/playwithreact/static/js/2.f517d30c.chunk.js.map",
+    "static/js/3.4df10f6c.chunk.js": "/playwithreact/static/js/3.4df10f6c.chunk.js",
+    "static/js/3.4df10f6c.chunk.js.map": "/playwithreact/static/js/3.4df10f6c.chunk.js.map",
+    "index.html": "/playwithreact/index.html",
+    "static/css/main.c27eb45c.chunk.css.map": "/playwithreact/static/css/main.c27eb45c.chunk.css.map",
+    "static/js/2.f517d30c.chunk.js.LICENSE.txt": "/playwithreact/static/js/2.f517d30c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/playwithreact/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82f013b2.js",
+    "static/js/2.f517d30c.chunk.js",
+    "static/css/main.c27eb45c.chunk.css",
+    "static/js/main.b80c16c3.chunk.js"
+  ]
+}
